@@ -21,6 +21,8 @@ public class StudentManagementSystemJavaGuidesApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(StudentManagementSystemJavaGuidesApplication.class, args);
 		System.out.println("STUDENT MANAGEMENT SYSTEM OF JAVA GUIDES APPLICATION HAS STARTED !!");
+		System.out.println("STUDENT MANAGEMENT SYSTEM OF JAVA GUIDES APPLICATION HAS STARTED !!");
+		System.out.println("STUDENT MANAGEMENT SYSTEM OF JAVA GUIDES APPLICATION HAS STARTED !!");
 	}
 	
 //	@Autowired
